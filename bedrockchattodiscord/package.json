@@ -1,0 +1,16 @@
+{
+  "name": "bedrockchattodiscord",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dtuna2830",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^13.12.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.12.0"
+  }
+}
