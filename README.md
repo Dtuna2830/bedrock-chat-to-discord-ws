@@ -1,2 +1,2 @@
-# bedrock-chat-to-discord-ws
-bedrock-chat-to-discord-ws
+# connect your bedrock chat to discord
+using ws and discordjs v13
